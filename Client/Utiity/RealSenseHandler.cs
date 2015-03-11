@@ -27,6 +27,7 @@ namespace ClientWPF.Utiity
         public event Action<PXCMHandData> ThumbDownFired = data => { };
         public event Action<PXCMHandData> ZoomInFired = data => { };
         public event Action<PXCMHandData> SpreadFingersFired = data => { };
+        public event Action<PXCMHandData> FistFired = data => { };
 
  
         #endregion
@@ -131,6 +132,8 @@ namespace ClientWPF.Utiity
                         ThumbDownFired(handData);
                     if (handData.IsGestureFired("spreadfingers", out gestureData))
                         SpreadFingersFired(handData);
+                    if (handData.IsGestureFired("fist", out gestureData))
+                        FistFired(handData);
                 }
 
                 // Update the user interface

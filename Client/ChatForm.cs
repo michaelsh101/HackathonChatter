@@ -344,6 +344,11 @@ namespace videochatsample
 		        }
 		    };
 
+            RealSenseHandler.Instace.FistFired += (data) =>
+            {
+                sndrMeScreen.Disconnect();
+            };
+
             this.groupBox1.Hide();
 
 			int ivideodevicecount;
