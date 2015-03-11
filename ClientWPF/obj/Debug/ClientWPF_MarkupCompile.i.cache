@@ -1,0 +1,29 @@
+﻿ClientWPF
+
+
+winexe
+C#
+.cs
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\obj\Debug\
+ClientWPF
+none
+false
+DEBUG;TRACE
+<<<<<<< HEAD
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\ClientWPF\App.xaml
+2-419086188
+1-75771727
+11-916377064
+141000185071
+Login.xaml;MainWindow.xaml;
+=======
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\ClientWPF\App.xaml
+41826997174
+1818218920
+151855098688
+141012385901
+ChooseContact.xaml;Config.xaml;Conversation.xaml;MainWindow.xaml;
+>>>>>>> ac15a2e2cd1a088aee07d584f30ca1a6e49012db
+
+False
+

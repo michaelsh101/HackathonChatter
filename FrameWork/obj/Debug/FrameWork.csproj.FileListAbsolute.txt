@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\FrameWork\bin\Debug\FrameWork.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\FrameWork\bin\Debug\FrameWork.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\FrameWork\obj\Debug\FrameWork.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\FrameWork\bin\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\FrameWork\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\FrameWork\obj\Debug\FrameWork.pdb

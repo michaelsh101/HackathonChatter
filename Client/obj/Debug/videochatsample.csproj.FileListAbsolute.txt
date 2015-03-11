@@ -1,0 +1,91 @@
+<<<<<<< HEAD
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.ChatForm.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.LoginForm.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.exe.config
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\FrameWork.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.exe.config
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\videochatsample.exe.config
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.ChatForm.resources
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.LoginForm.resources
+C:\Users\Hackathon-IDF\Desktop\Reps\HackathonChatter\Client\obj\Debug\videochatsample.csproj.GenerateResource.Cache
+=======
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.ChatForm.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\obj\Debug\videochatsample.LoginForm.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\videochatsample.exe.config
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\FrameWork.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Client\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.exe.config
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csproj.ResolveComReference.cache
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.exe
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\videochatsample.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\FrameWork.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\FrameWork.pdb
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\Interop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\Interop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatReceiverLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\bin\Debug\AxInterop.VideoChatSenderLib.dll
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csprojResolveAssemblyReference.cache
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.ChatForm.resources
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.LoginForm.resources
+C:\Users\Hackathon-IDF\Documents\GitHub\HackathonChatter\Client\obj\Debug\videochatsample.csproj.GenerateResource.Cache
+>>>>>>> ac15a2e2cd1a088aee07d584f30ca1a6e49012db

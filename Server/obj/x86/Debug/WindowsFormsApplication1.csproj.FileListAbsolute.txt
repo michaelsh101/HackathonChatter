@@ -1,0 +1,14 @@
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\Interop.VideoChatServerLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\AxInterop.VideoChatServerLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\bin\Debug\WindowsFormsApplication1.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\bin\Debug\WindowsFormsApplication1.pdb
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\bin\Debug\Interop.VideoChatServerLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\bin\Debug\AxInterop.VideoChatServerLib.dll
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Program Files (x86)\Video Chat Pro ActiveX Control\Examples\C#2010\Server\obj\x86\Debug\WindowsFormsApplication1.pdb
